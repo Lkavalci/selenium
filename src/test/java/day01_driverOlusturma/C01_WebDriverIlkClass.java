@@ -9,7 +9,7 @@ public class C01_WebDriverIlkClass {
 
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.amazon.com");
-        //driver.get()
+
     }
 
 }
