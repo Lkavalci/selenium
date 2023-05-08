@@ -92,6 +92,8 @@ public class C04_GoogleNutella {
         //8- Sayfayi kapatin
         Thread.sleep(3000);
         driver.close();
+    //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
+
     }
 }
 
